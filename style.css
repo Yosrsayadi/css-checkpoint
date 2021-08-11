@@ -1,0 +1,131 @@
+
+body
+{
+    background-color:#F2F3F4  ; 
+    
+}
+li{
+  color: #243038 ;
+  text-align: justify;
+  font:  100%  cursive;
+}
+label{
+  color: #243038 ;
+  text-align: justify;
+  font:  100%  cursive;
+}
+
+input{
+  color: #243038 ;
+  text-align: justify;
+  font:  100%  cursive;
+}
+h2 {
+  color: #154360 ;
+  text-align: justify;
+  font: italic 200% cursive;
+  border: 3px #5DADE2 double;
+ 
+ }
+ h3 {
+  color: #5DADE2 ;
+  text-align: justify;
+  font:  100%  cursive;
+  
+ }
+ h4 {
+  color: #5DADE2  ;
+  text-align: justify;
+  font:  100% cursive;
+  
+ 
+ }
+ p {
+  text-align: justify;
+  font:   100% sans-serif;
+
+ }
+
+ table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: #243038 ;
+  text-align: justify;
+  font:  100%  cursive;
+}
+.navb{
+    overflow: hidden;
+  background-color: #333;
+}
+.navb a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font:   150% monospace;
+  }
+  
+  .navb a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+#home{
+    background-color: #F2F3F4 ;
+     
+  
+}
+#about{
+    background-color: #F2F3F4 ; 
+}
+#work{
+    background-color: #F2F3F4 ;
+}
+#resume{
+    background-color: #F2F3F4 ;
+}
+#contact{
+    background-color: #F2F3F4;
+}
+footer{
+  background-color:black ;
+  color: #ddd;
+};
+
+.navb{
+    overflow: hidden;
+  background-color: #333;
+}
+.navb a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navb a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+#home{
+    background-color: #EBF5FB;
+}  
+#about{
+    background-color: #EBF5FB; 
+}
+#work{
+    background-color: #EBF5FB;
+}
+#resume{
+    background-color: #EBF5FB;
+}
+#contact{
+    background-color: #EBF5FB;
+}
